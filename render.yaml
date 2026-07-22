@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: cruise-compass-friend
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
